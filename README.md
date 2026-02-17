@@ -52,5 +52,4 @@ Implemented command and data registration over I2C using 4-bit nibble transmissi
 
 ---
 
-## 📝 Reporting
-For the final report, ensure to mention the use of **STM32 HAL** over MMIO for portability and the logic used for cursor memory (storing column offsets in an array).
+
