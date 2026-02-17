@@ -1,0 +1,29 @@
+# STM32CubeIDE / Eclipse .gitignore
+
+# Build folders
+Debug/
+Release/
+bin/
+obj/
+
+# Local configuration files
+.settings/
+.project
+.cproject
+.mxproject
+
+# Static libraries and objects
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+*.cyclomatic
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
